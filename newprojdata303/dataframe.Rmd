@@ -10,3 +10,4 @@ library(readr)
 boloria <- read_csv("C:/Users/gfres/Downloads/boloria.csv")
 View(boloria)
 
+

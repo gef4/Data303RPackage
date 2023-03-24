@@ -49,3 +49,5 @@ simple_up$X1 <- toupper(simple_up$X1)
 simple_up$X2 <- toupper(simple_up$X2)
 simple_up$X5 <- toupper(simple_up$X5)
 
+
+
